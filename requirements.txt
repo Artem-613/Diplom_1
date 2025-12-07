@@ -1,0 +1,5 @@
+pytest==7.4.0
+pytest-cov==4.1.0
+pytest-allure-adaptor==1.7.10
+allure-pytest==2.9.45
+allure-python-commons==2.9.45
